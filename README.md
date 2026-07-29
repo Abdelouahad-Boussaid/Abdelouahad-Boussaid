@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Abdelouahad-Boussaid/Abdelouahad-Boussaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Abdelouahad Boussaid 👋
 
-Here are some ideas to get you started:
+Computer Science Engineering Student | Full-Stack Developer  
+MERN Stack & React Native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build modern web and mobile applications and enjoy learning new technologies.
+
+## 🚀 Tech Stack
+
+- Frontend: React, JavaScript, HTML, CSS
+- Mobile: React Native, Expo
+- Backend: Node.js, Express.js
+- Databases: MongoDB, Firebase, Redis
+- Tools: Git, GitHub, Postman, Twilio
+
+## 📱 Featured Project
+
+### Lototy
+
+A mobile application for vehicle management, maintenance tracking, and smart maintenance reminders.
+
+**Technologies:** React Native, Expo, Node.js, Express.js, MongoDB, Twilio, Redis
+
+## 📫 Contact
+
+- Email: bssdabdou2@gmail.com
+- GitHub: [Abdelouahad-Boussaid](https://github.com/Abdelouahad-Boussaid)
