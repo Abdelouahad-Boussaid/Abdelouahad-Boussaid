@@ -26,4 +26,4 @@ A mobile application for vehicle management, maintenance tracking, and smart mai
 
 - Email: bssdabdou2@gmail.com
 - GitHub: [Abdelouahad-Boussaid](https://github.com/Abdelouahad-Boussaid)
-- Portfolio: (https://abdelouahad-Boussaid.netlify.app/)
+- Portfolio: https://abdelouahad-Boussaid.netlify.app/
